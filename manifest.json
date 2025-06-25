@@ -7,7 +7,7 @@
     "activeTab"
   ],
   "browser_action": {
-    "default_icon": "icons/icon-32.png",
+    "default_icon": "assets/icon-32.png",
     "default_title": "Ajustar Volume",
     "default_popup": "popup/popup.html"
   },
