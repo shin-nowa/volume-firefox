@@ -1,0 +1,505 @@
+This site appears to use a scroll-linked positioning effect. This may not work well with asynchronous panning; see https://firefox-source-docs.mozilla.org/performance/scroll-linked_effects.html for further details and to join the discussion on related tools and features! metallica-master-of-puppets-tab-s455118
+--> Tentativa de conexão de [AudioBufferSourceNode] para [GainNode] injector.js:35:13
+--> Tentativa de conexão de [AudioBufferSourceNode] para [GainNode] injector.js:35:13
+--> Tentativa de conexão de [AudioBufferSourceNode] para [GainNode] injector.js:35:13
+--> Tentativa de conexão de [AudioBufferSourceNode] para [GainNode] injector.js:35:13
+--> Tentativa de conexão de [AudioBufferSourceNode] para [GainNode] injector.js:35:13
+--> Tentativa de conexão de [AudioBufferSourceNode] para [GainNode] injector.js:35:13
+--> Tentativa de conexão de [AudioBufferSourceNode] para [GainNode] injector.js:35:13
+--> Tentativa de conexão de [AudioBufferSourceNode] para [GainNode] injector.js:35:13
+--> Tentativa de conexão de [AudioBufferSourceNode] para [GainNode] injector.js:35:13
+--> Tentativa de conexão de [AudioBufferSourceNode] para [GainNode] injector.js:35:13
+--> Tentativa de conexão de [AudioBufferSourceNode] para [GainNode] 3 injector.js:35:13
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.56 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5600000023841858. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.55 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.550000011920929. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.54 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5400000214576721. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.53 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5299999713897705. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.52 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5199999809265137. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.51 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5099999904632568. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.5 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.49 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.49000000953674316. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.48 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.47999998927116394. injector.js:66:17
+--> Tentativa de conexão de [AudioBufferSourceNode] para [GainNode] injector.js:35:13
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.49 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.49000000953674316. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.5 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.51 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5099999904632568. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.52 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5199999809265137. injector.js:66:17
+--> Tentativa de conexão de [AudioBufferSourceNode] para [GainNode] injector.js:35:13
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.53 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5299999713897705. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.54 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5400000214576721. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.55 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.550000011920929. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.56 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5600000023841858. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.57 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5699999928474426. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.58 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5799999833106995. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.59 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5899999737739563. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.6 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.6000000238418579. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.61 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.6100000143051147. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.6 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.6000000238418579. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.59 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5899999737739563. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.58 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5799999833106995. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.57 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5699999928474426. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.56 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5600000023841858. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.55 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.550000011920929. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.54 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5400000214576721. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.53 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5299999713897705. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.52 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5199999809265137. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.51 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5099999904632568. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.5 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.49 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.49000000953674316. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.48 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.47999998927116394. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.47 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.4699999988079071. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.46 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.46000000834465027. injector.js:66:17
+--> Tentativa de conexão de [AudioBufferSourceNode] para [GainNode] injector.js:35:13
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.45 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.44999998807907104. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.44 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.4399999976158142. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.43 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.4300000071525574. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.42 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.41999998688697815. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.41 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.4099999964237213. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.4 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.4000000059604645. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.39 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.38999998569488525. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.38 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.3799999952316284. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.37 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.3700000047683716. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.36 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.36000001430511475. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.35 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.3499999940395355. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.34 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.3400000035762787. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.33 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.33000001311302185. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.32 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.3199999928474426. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.31 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.3100000023841858. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.3 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.30000001192092896. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.29 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.28999999165534973. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.28 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.2800000011920929. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.27 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.27000001072883606. injector.js:66:17
+--> Tentativa de conexão de [AudioBufferSourceNode] para [GainNode] injector.js:35:13
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.28 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.2800000011920929. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.29 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.28999999165534973. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.3 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.30000001192092896. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.31 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.3100000023841858. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.32 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.3199999928474426. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.33 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.33000001311302185. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.34 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.3400000035762787. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.35 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.3499999940395355. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.36 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.36000001430511475. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.37 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.3700000047683716. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.38 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.3799999952316284. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.39 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.38999998569488525. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.4 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.4000000059604645. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.41 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.4099999964237213. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.42 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.41999998688697815. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.43 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.4300000071525574. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.44 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.4399999976158142. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.45 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.44999998807907104. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.46 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.46000000834465027. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.47 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.4699999988079071. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.48 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.47999998927116394. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.49 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.49000000953674316. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.5 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.51 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5099999904632568. injector.js:66:17
+--> Tentativa de conexão de [AudioBufferSourceNode] para [GainNode] injector.js:35:13
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.52 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5199999809265137. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.53 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5299999713897705. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.54 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5400000214576721. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.55 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.550000011920929. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.56 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.5600000023841858. injector.js:66:17
+--> Tentativa de conexão de [AudioBufferSourceNode] para [GainNode] 2 injector.js:35:13
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.22 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.2199999988079071. injector.js:66:17
+--> Tentativa de conexão de [AudioBufferSourceNode] para [GainNode] 2 injector.js:35:13
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.33 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.33000001311302185. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.34 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.3400000035762787. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.35 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.3499999940395355. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.36 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.36000001430511475. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.38 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.3799999952316284. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.41 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.4099999964237213. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.41 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.4099999964237213. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.41 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.4099999964237213. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.42 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.41999998688697815. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.43 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.4300000071525574. injector.js:66:17
+>>> MENSAGEM DE VOLUME RECEBIDA: 0.44 injector.js:60:13
+Aplicando volume ao nó de ganho mestre. Detalhes do nó antes da mudança: injector.js:63:17
+GainNode { gain: AudioParam, context: AudioContext, numberOfInputs: 1, numberOfOutputs: 1, channelCount: 2, channelCountMode: "max", channelInterpretation: "speakers" }
+injector.js:64:17
+Volume definido para 0.4399999976158142. injector.js:66:17
+--> Tentativa de conexão de [AudioBufferSourceNode] para [GainNode] 2 injector.js:35:13

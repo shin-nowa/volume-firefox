@@ -1,0 +1,145 @@
+// injector.js (V5 - A Solução Final)
+
+console.log("Injector v5 (Final) iniciado.");
+
+const OriginalAudioContext = window.AudioContext || window.webkitAudioContext;
+let lastKnownVolume = 1.0;
+
+// Intercepta a criação do AudioContext
+window.AudioContext = window.webkitAudioContext = function(...args) {
+    console.log("AudioContext do Songsterr interceptado.");
+    
+    // 1. Cria o contexto de áudio real que a página pediu.
+    const context = new OriginalAudioContext(...args);
+
+    // 2. Cria o nosso nó de volume mestre.
+    const masterGainNode = context.createGain();
+    
+    // 3. Define o volume inicial ou o último conhecido.
+    masterGainNode.gain.value = lastKnownVolume;
+    
+    // 4. Conecta o NOSSO nó de volume à SAÍDA REAL do áudio (os alto-falantes).
+    masterGainNode.connect(context.destination);
+    
+    // 5. O TRUQUE MÁGICO: Sobrescrevemos a propriedade 'destination' do contexto.
+    // Agora, quando o Songsterr tentar se conectar a `context.destination`,
+    // ele na verdade estará se conectando ao nosso `masterGainNode`.
+    Object.defineProperty(context, 'destination', {
+        get: () => masterGainNode
+    });
+    
+    console.log("Feito! A 'saída final' do contexto agora é o nosso nó de volume. O som será forçado a passar por nós.");
+
+    // Escuta por mudanças de estado (apenas para depuração)
+    context.onstatechange = () => {
+        console.log(`Estado do contexto mudou para: ${context.state}`);
+    };
+    
+    // Listener para mensagens de volume
+    window.addEventListener("message", (event) => {
+        if (event.source === window && event.data.type === "SET_VOLUME_SONGTERR") {
+            lastKnownVolume = event.data.volume;
+            masterGainNode.gain.setValueAtTime(lastKnownVolume, context.currentTime);
+        }
+    }, false);
+
+    // 6. Retorna o contexto modificado para o Songsterr.
+    // A página usará este contexto sem saber que foi alterado.
+    return context;
+};// injector.js (V5 - A Solução Final)
+
+console.log("Injector v5 (Final) iniciado.");
+
+const OriginalAudioContext = window.AudioContext || window.webkitAudioContext;
+let lastKnownVolume = 1.0;
+
+// Intercepta a criação do AudioContext
+window.AudioContext = window.webkitAudioContext = function(...args) {
+    console.log("AudioContext do Songsterr interceptado.");
+    
+    // 1. Cria o contexto de áudio real que a página pediu.
+    const context = new OriginalAudioContext(...args);
+
+    // 2. Cria o nosso nó de volume mestre.
+    const masterGainNode = context.createGain();
+    
+    // 3. Define o volume inicial ou o último conhecido.
+    masterGainNode.gain.value = lastKnownVolume;
+    
+    // 4. Conecta o NOSSO nó de volume à SAÍDA REAL do áudio (os alto-falantes).
+    masterGainNode.connect(context.destination);
+    
+    // 5. O TRUQUE MÁGICO: Sobrescrevemos a propriedade 'destination' do contexto.
+    // Agora, quando o Songsterr tentar se conectar a `context.destination`,
+    // ele na verdade estará se conectando ao nosso `masterGainNode`.
+    Object.defineProperty(context, 'destination', {
+        get: () => masterGainNode
+    });
+    
+    console.log("Feito! A 'saída final' do contexto agora é o nosso nó de volume. O som será forçado a passar por nós.");
+
+    // Escuta por mudanças de estado (apenas para depuração)
+    context.onstatechange = () => {
+        console.log(`Estado do contexto mudou para: ${context.state}`);
+    };
+    
+    // Listener para mensagens de volume
+    window.addEventListener("message", (event) => {
+        if (event.source === window && event.data.type === "SET_VOLUME_SONGTERR") {
+            lastKnownVolume = event.data.volume;
+            masterGainNode.gain.setValueAtTime(lastKnownVolume, context.currentTime);
+        }
+    }, false);
+
+    // 6. Retorna o contexto modificado para o Songsterr.
+    // A página usará este contexto sem saber que foi alterado.
+    return context;
+};// injector.js (V5 - A Solução Final)
+
+console.log("Injector v5 (Final) iniciado.");
+
+const OriginalAudioContext = window.AudioContext || window.webkitAudioContext;
+let lastKnownVolume = 1.0;
+
+// Intercepta a criação do AudioContext
+window.AudioContext = window.webkitAudioContext = function(...args) {
+    console.log("AudioContext do Songsterr interceptado.");
+    
+    // 1. Cria o contexto de áudio real que a página pediu.
+    const context = new OriginalAudioContext(...args);
+
+    // 2. Cria o nosso nó de volume mestre.
+    const masterGainNode = context.createGain();
+    
+    // 3. Define o volume inicial ou o último conhecido.
+    masterGainNode.gain.value = lastKnownVolume;
+    
+    // 4. Conecta o NOSSO nó de volume à SAÍDA REAL do áudio (os alto-falantes).
+    masterGainNode.connect(context.destination);
+    
+    // 5. O TRUQUE MÁGICO: Sobrescrevemos a propriedade 'destination' do contexto.
+    // Agora, quando o Songsterr tentar se conectar a `context.destination`,
+    // ele na verdade estará se conectando ao nosso `masterGainNode`.
+    Object.defineProperty(context, 'destination', {
+        get: () => masterGainNode
+    });
+    
+    console.log("Feito! A 'saída final' do contexto agora é o nosso nó de volume. O som será forçado a passar por nós.");
+
+    // Escuta por mudanças de estado (apenas para depuração)
+    context.onstatechange = () => {
+        console.log(`Estado do contexto mudou para: ${context.state}`);
+    };
+    
+    // Listener para mensagens de volume
+    window.addEventListener("message", (event) => {
+        if (event.source === window && event.data.type === "SET_VOLUME_SONGTERR") {
+            lastKnownVolume = event.data.volume;
+            masterGainNode.gain.setValueAtTime(lastKnownVolume, context.currentTime);
+        }
+    }, false);
+
+    // 6. Retorna o contexto modificado para o Songsterr.
+    // A página usará este contexto sem saber que foi alterado.
+    return context;
+};

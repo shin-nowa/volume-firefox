@@ -1,22 +1,27 @@
 {
   "manifest_version": 2,
-  "name": "Volume Control",
-  "version": "1.0",
+  "name": "Controle de Volume da Guia",
+  "version": "1.1", 
   "description": "Ajusta o volume da guia ativa.",
   "permissions": [
     "activeTab"
   ],
   "browser_action": {
     "default_icon": "icons/icon-32.png",
-    "default_title": "Volume Adjustment",
+    "default_title": "Ajustar Volume",
     "default_popup": "popup/popup.html"
   },
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
-      "js": ["content_scripts/content.js"]
+      "js": ["content_scripts/content.js"],
+      "run_at": "document_start" 
     }
   ],
+  "web_accessible_resources": [
+    "injector.js"
+  ],
+
   "icons": {
     "32": "icons/icon-32.png"
   }
