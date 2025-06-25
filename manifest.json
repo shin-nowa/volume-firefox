@@ -1,14 +1,14 @@
 {
   "manifest_version": 2,
-  "name": "Controle de Volume da Guia",
+  "name": "Tab Volume",
   "version": "1.1", 
-  "description": "Ajusta o volume da guia ativa.",
+  "description": "Adjust the volume for the current tab.",
   "permissions": [
     "activeTab"
   ],
   "browser_action": {
     "default_icon": "assets/icon-32.png",
-    "default_title": "Ajustar Volume",
+    "default_title": "Adjust Volume",
     "default_popup": "popup/popup.html"
   },
   "content_scripts": [
@@ -23,6 +23,6 @@
   ],
 
   "icons": {
-    "32": "icons/icon-32.png"
+    "32": "assets/icon-32.png"
   }
 }
